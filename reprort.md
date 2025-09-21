@@ -1,0 +1,1 @@
+# I learned how to use Git in a simple way. I practiced making a new file and adding it to my project. I also tried committing and pushing changes to the repository.Branches were a bit confusing at first, but I got a better idea after trying them.
